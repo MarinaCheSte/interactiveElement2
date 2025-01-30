@@ -154,11 +154,12 @@ li::marker {
     }
 
     .widget_headline {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .elem_ul {
-        font-size: 14px;
+        font-size: 16px;
+        margin-left: 35px;
     }
 
     .small_container {
@@ -178,3 +179,4 @@ li::marker {
     }
 
 }
+
